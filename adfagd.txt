@@ -1,0 +1,7 @@
+adfswannagohomejjhjhjh
+<<<<<<< HEAD
+add: Register a change in an index
+adgag
+=======
+add: Register a change in an index
+>>>>>>> be7fb85012dd8f64ab3ec596ef1d5ca65bf3a4d6
